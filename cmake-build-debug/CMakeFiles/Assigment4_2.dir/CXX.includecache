@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/trey/CLionProjects/Assigment4_2/jumblePuzzle_18gdw.cpp
+iostream
+-
+ctime
+C:/Users/trey/CLionProjects/Assigment4_2/ctime
+cstdlib
+C:/Users/trey/CLionProjects/Assigment4_2/cstdlib
+jumblePuzzle_18gdw.h
+C:/Users/trey/CLionProjects/Assigment4_2/jumblePuzzle_18gdw.h
+
+C:/Users/trey/CLionProjects/Assigment4_2/jumblePuzzle_18gdw.h
+
+C:/Users/trey/CLionProjects/Assigment4_2/main.cpp
+string
+-
+iostream
+-
+ctime
+-
+jumblePuzzle_18gdw.h
+C:/Users/trey/CLionProjects/Assigment4_2/jumblePuzzle_18gdw.h
+
